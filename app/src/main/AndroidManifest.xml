@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.address">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Palamu_address" />
+        <activity android:name=".Palamu" />
+        <activity android:name=".Garhwa_address" />
+        <activity android:name=".Garhwa" />
+        <activity android:name=".Leh_address" />
+        <activity android:name=".Leh" />
+        <activity android:name=".Kargil_address" />
+        <activity android:name=".Kargil" />
+        <activity android:name=".Srinagar_address" />
+        <activity android:name=".Srinagar" />
+        <activity android:name=".Shopian_address" />
+        <activity android:name=".Shopian" />
+        <activity android:name=".Pulwama_address" />
+        <activity android:name=".Pulwama" />
+        <activity android:name=".Kupwara_address" />
+        <activity android:name=".Kupwara" />
+        <activity android:name=".Kulgam_address" />
+        <activity android:name=".Kulgam" />
+        <activity android:name=".Ganderbal_address" />
+        <activity android:name=".Ganderbal" />
+        <activity android:name=".Budgam_address" />
+        <activity android:name=".Budgam" />
+        <activity android:name=".Baramulla_address" />
+        <activity android:name=".Baramulla" />
+        <activity android:name=".Bandipora_address" />
+        <activity android:name=".Bandipora" />
+        <activity android:name=".Anantnag_address" />
+        <activity android:name=".Anantnag" />
+        <activity android:name=".Udhampur_address" />
+        <activity android:name=".Udhampur" />
+        <activity android:name=".Samba_address" />
+        <activity android:name=".Samba" />
+        <activity android:name=".Reasi_address" />
+        <activity android:name=".Reasi" />
+        <activity android:name=".Ramban_address" />
+        <activity android:name=".Ramban" />
+        <activity android:name=".Rajouri_address" />
+        <activity android:name=".Rajouri" />
+        <activity android:name=".Poonch_address" />
+        <activity android:name=".Poonch" />
+        <activity android:name=".Kishtwar_address" />
+        <activity android:name=".Kishtwar" />
+        <activity android:name=".Kathua_address" />
+        <activity android:name=".Kathua" />
+        <activity android:name=".Jammu_address" />
+        <activity android:name=".Jammu" />
+        <activity android:name=".Doda_address" />
+        <activity android:name=".Doda" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

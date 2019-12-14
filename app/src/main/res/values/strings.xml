@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">Address</string>
+    <string-array name="items_class">
+        <item>Andra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telagana</item>
+        <item>Tripura</item>
+        <item>Bihar</item>
+    </string-array>
+
+    <string-array name="items_div_class_1">
+        <item>Doda</item>
+        <item>Jammu</item>
+        <item>Kathua</item>
+        <item>Kishtwar</item>
+        <item>Poonch</item>
+        <item>Rajouri</item>
+        <item>Ramban</item>
+        <item>Reasi</item>
+        <item>Samba</item>
+        <item>Udhampur</item>
+        <item>Anantnag</item>
+        <item>Bandipora</item>
+        <item>Baramulla</item>
+        <item>Budgam </item>
+        <item>Ganderbal </item>
+        <item>Kulgam</item>
+        <item>Kupwara</item>
+        <item>Pulwama</item>
+        <item>Shopian</item>
+        <item>Srinagar</item>
+        <item>Kargil</item>
+        <item>Leh </item>
+    </string-array>
+
+    <string-array name="items_div_class_2">
+        <item>Garhwa</item>
+        <item>Palamu</item>
+        <item>Latehar</item>
+        <item>Chatra</item>
+        <item>Hazaribagh</item>
+        <item>Koderma</item>
+        <item>Giridih</item>
+        <item>Ramgarh</item>
+        <item>Bokaro</item>
+        <item>Dhanbad</item>
+        <item>Lohardaga</item>
+        <item>Gumla</item>
+        <item>Simdega</item>
+        <item>Ranchi</item>
+        <item>Khunti</item>
+        <item>West Singhbhum</item>
+        <item>Saraikela Kharsawan</item>
+        <item>East Singhbhum</item>
+        <item>Jamtara</item>
+        <item>Deoghar</item>
+        <item>Dumka</item>
+        <item>Pakur</item>
+        <item>Godda</item>
+        <item>Sahebganj</item>
+    </string-array>
+
+    <string-array name="items_div_class_3">
+        <item>Bagalkot</item>
+        <item>Bengaluru Urban</item>
+        <item>Bengaluru Rural</item>
+        <item>Belagavi</item>
+        <item>Ballari</item>
+        <item>Bidar</item>
+        <item>Vijayapur</item>
+        <item>Chamarajanagar</item>
+        <item>Chikballapur</item>
+        <item>Chikkamagaluru</item>
+        <item>Chitradurga</item>
+        <item>	Dakshina Kannada</item>
+        <item>Davanagere</item>
+        <item>Dharwad</item>
+        <item>Gadag</item>
+        <item>Kalaburagi</item>
+        <item>Hassan</item>
+        <item>Haveri</item>
+        <item>Kodagu</item>
+        <item>Kolar</item>
+        <item>Koppal</item>
+        <item>Mandya</item>
+        <item>Mysuru</item>
+        <item>Raichur</item>
+        <item>Ramanagara</item>
+        <item>Shivamogga</item>
+        <item>Tumakuru</item>
+        <item>Udupi</item>
+        <item>Uttara Kannada</item>
+        <item>Yadgir</item>
+
+    </string-array>
+
+    <string-array name="items_div_class_4">
+        <item>Alappuzha</item>
+        <item>Ernakulam</item>
+        <item>Idukki</item>
+        <item>Kannur</item>
+        <item>Kasaragod</item>
+        <item>Kollam</item>
+        <item>Kottayam</item>
+        <item>Kozhikode</item>
+        <item>Malappuram</item>
+        <item>Palakkad</item>
+        <item>Pathanamthitta</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thrissur</item>
+        <item>Wayanad</item>
+    </string-array>
+
+
+    <string-array name="items_div_class_5">
+        <item>Bhopal</item>
+        <item>Raisen</item>
+        <item>Rajgarh</item>
+        <item>Sehore</item>
+        <item>Vidisha</item>
+        <item>Morena </item>
+        <item>Sheopur</item>
+        <item>Bhind</item>
+        <item>Gwalior </item>
+        <item>Ashoknagar</item>
+        <item>Shivpuri</item>
+        <item>Datia</item>
+        <item>Guna</item>
+        <item>Alirajpur</item>
+        <item>Barwani</item>
+        <item>Burhanpur </item>
+        <item>Indore</item>
+        <item>Dhar</item>
+        <item>Jhabua </item>
+        <item>Khandwa</item>
+        <item>Khargone</item>
+        <item>Balaghat </item>
+        <item>Chhindwara</item>
+        <item>Jabalpur</item>
+        <item>Katni</item>
+        <item>Mandla </item>
+        <item>Narsinghpur</item>
+        <item>Seoni</item>
+        <item>Dindori </item>
+        <item>Betul </item>
+        <item>Harda </item>
+        <item>Hoshangabad</item>
+        <item>Rewa</item>
+        <item>Satna</item>
+        <item>Sidhi </item>
+        <item>Singrauli </item>
+        <item>Chhatarpur</item>
+        <item>Damoh</item>
+        <item>Panna</item>
+        <item>Sagar</item>
+        <item>Tikamgarh</item>
+        <item>Niwari </item>
+        <item>Anuppur</item>
+        <item>Shahdol</item>
+        <item>Umaria</item>
+        <item>Agar Malwa</item>
+        <item>Dewas </item>
+        <item>Mandsaur</item>
+        <item>Neemuch</item>
+        <item>Ratlam</item>
+        <item>Shajapur</item>
+        <item>Ujjain</item>
+    </string-array>
+
+
+    <string-array name="items_div_class_6">
+        <item>Sangli</item>
+        <item>Satara</item>
+        <item>Solapur</item>
+    </string-array>
+
+
+    <string-array name="items_div_class_7">
+        <item>Bishnupur</item>
+        <item>Thoubal</item>
+        <item>	Imphal East</item>
+        <item>	Imphal West</item>
+        <item>	Senapati</item>
+        <item>Ukhrul</item>
+        <item>Chandel</item>
+        <item>Churachandpur</item>
+        <item>Tamenglong</item>
+        <item>Jiribam</item>
+        <item>Kangpokpi (Sadar Hills)</item>
+        <item>Kakching</item>
+        <item>Tengnoupal</item>
+        <item>	Kamjong</item>
+        <item>Noney</item>
+        <item>Pherzawl</item>
+    </string-array>
+
+
+    <string-array name="items_div_class_8">
+        <item>West Jaintia Hills (Jowai)</item>
+        <item>East Jaintia Hills (Khliehriat)</item>
+        <item>East Khasi Hills (Shillong)</item>
+        <item>West Khasi Hills (Nongstoin)</item>
+        <item>South West Khasi Hills (Mawkyrwat)</item>
+        <item>Ri-Bhoi (Nongpoh)</item>
+        <item>North Garo Hills (Resubelpara)</item>
+        <item>East Garo Hills (Williamnagar)</item>
+        <item>South Garo Hills (Baghmara)</item>
+        <item>West Garo Hills (Tura)</item>
+        <item>South West Garo Hills (Ampati)</item>
+    </string-array>
+
+
+    <string-array name="items_div_class_9">
+        <item>Aizawl</item>
+        <item>Kolasib</item>
+        <item>Lawngtlai</item>
+        <item>Lunglei</item>
+        <item>Mamit</item>
+        <item>Saiha</item>
+        <item>Serchhip</item>
+        <item>Champhai</item>
+    </string-array>
+    <string name="title_activity_ramgarh">Ramgarh</string>
+</resources>
